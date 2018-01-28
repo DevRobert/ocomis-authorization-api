@@ -1,1 +1,1 @@
-# ocomis-authorization-api
+# Ocomis Authorization API
